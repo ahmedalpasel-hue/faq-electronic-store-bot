@@ -31,11 +31,17 @@ Example Questions:
 - Tell me about Laptop A
 - I’m very upset with Product B!
 - Excellent quality, I love Smartphone Z!
+
+Screenshots:
 - <img width="1909" height="853" alt="image" src="https://github.com/user-attachments/assets/eeaaab0e-ddb7-4fc0-a243-7866acd77b88" />
+
+
+
+
 <img width="1909" height="599" alt="image" src="https://github.com/user-attachments/assets/603ea06a-d042-4797-ae18-b9254e51f4c8" />
 
 
-Screenshots:
+
    
 
   <img width="1919" height="857" alt="image" src="https://github.com/user-attachments/assets/dfd684b6-905d-4b23-869f-b285c8fe4155" />

@@ -25,7 +25,8 @@ It answers customer questions about store policies, products, and services using
    
 4. Launch the web interface:
    streamlit run faq_ui.py
-
+   
+   
 Example Questions:
 - Do you offer free shipping?
 - Tell me about Laptop A
